@@ -1,18 +1,25 @@
 {
-  "name": "design-system",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "keywords": [
-    "design system",
-    "framer"
-  ],
-  "author": "Framer",
-  "license": "MIT",
-  "dependencies": {
-    "react": "^16.13.0",
-    "react-dom": "^16.8.6",
-    "styled-components": "^5.0.1",
-    "typescript": "^3.4.3"
-  }
+	"license": "MIT",
+	"name": "design-system",
+	"version": "0.0.1",
+	"description": "",
+	"main": "dist/index.js",
+	"keywords": [
+		"design system",
+		"framer"
+	],
+	"author": "Framer",
+	"dependencies": {
+		"react": "^16.13.0",
+		"react-dom": "^16.8.6",
+		"styled-components": "^5.0.1",
+		"typescript": "^3.4.3"
+	},
+	"peerDependencies": {
+		"framer": "^1"
+	},
+	"devDependencies": {},
+	"framer": {
+		"displayName": ""
+	}
 }
