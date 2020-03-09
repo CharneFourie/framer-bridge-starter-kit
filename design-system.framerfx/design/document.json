@@ -1895,6 +1895,299 @@
         "visible" : true,
         "width" : 108,
         "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0.48984526112185689,
+        "centerAnchorY" : 0.18398876404494383,
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : null,
+            "centerAnchorX" : 0.50097847358121328,
+            "centerAnchorY" : 0.5,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 28,
+            "heightType" : 0,
+            "id" : "@framer\/mcdoodles.micks-demo-uqrj8f5ln-wpSjz05E4",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "@framer\/mcdoodles.micks-demo-uqrj8f5ln",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:hsl(0, 0%, 100%)",
+                      "SIZE:24",
+                      "FONT:__SF-UI-Display-Bold__"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "COLOR:hsl(0, 0%, 100%)"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "SIZE:24"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "FONT:__SF-UI-Display-Bold__"
+                    }
+                  ],
+                  "key" : "4o454",
+                  "text" : "Click here",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"4o454-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"4o454-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSDisplay-Bold&quot;, &quot;SFProDisplay-Bold&quot;, &quot;SFUIDisplay-Bold&quot;, &quot;.SFUIDisplay-Bold&quot;, &quot;SF Pro Display&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.2;font-weight:699\"><span data-text=\"true\">Click here<\/span><\/span><\/div>",
+                "os" : "macos 10_14 framerx",
+                "size" : {
+                  "height" : 28,
+                  "width" : 110
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : null,
+            "visible" : true,
+            "width" : 110,
+            "widthType" : 0
+          }
+        ],
+        "clip" : false,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(0, 153, 255, 0.5)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 96,
+        "heightType" : 0,
+        "id" : "@framer\/mcdoodles.micks-demo-uqrj8f5ln",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : "@framer\/mcdoodles.micks-demo",
+        "isMaster" : true,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : "ButtonMainCTA",
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "iEDNh42Sf",
+        "previewSettings" : null,
+        "radius" : 10,
+        "radiusBottomLeft" : 10,
+        "radiusBottomRight" : 10,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 10,
+        "radiusTopRight" : 10,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 511,
+        "widthType" : 0
+      },
+      {
+        "__class" : "CodeComponentNode",
+        "aspectRatio" : null,
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+
+        ],
+        "clip" : true,
+        "codeComponentIdentifier" : ".\/MainButton.tsx_MainButton",
+        "codeComponentProps" : {
+          "text" : "Hello Framer!",
+          "tint" : "#0099ff"
+        },
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(0, 153, 255, 0.5)",
+        "fillEnabled" : false,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "height" : 128,
+        "heightType" : 0,
+        "id" : "cfXPcdOK5",
+        "intrinsicHeight" : 128,
+        "intrinsicWidth" : 240,
+        "left" : -487,
+        "locked" : false,
+        "name" : null,
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "iEDNh42Sf",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "right" : null,
+        "rotation" : 0,
+        "top" : -538,
+        "visible" : true,
+        "width" : 240,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0.52722772277227725,
+        "centerAnchorY" : 0.14705882352941177,
+        "children" : [
+
+        ],
+        "clip" : false,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(0, 153, 255, 0.5)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 113,
+        "heightType" : 0,
+        "id" : "d97nf2lrw",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : -153,
+        "locked" : false,
+        "name" : "ButtonMainCTA",
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : "@framer\/mcdoodles.micks-demo-uqrj8f5ln",
+        "parentid" : "iEDNh42Sf",
+        "previewSettings" : null,
+        "radius" : 10,
+        "radiusBottomLeft" : 10,
+        "radiusBottomRight" : 10,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 10,
+        "radiusTopRight" : 10,
+        "replicaInfo" : {
+          "master" : "@framer\/mcdoodles.micks-demo-uqrj8f5ln",
+          "overrides" : {
+            "@framer\/mcdoodles.micks-demo-uqrj8f5ln" : {
+              "bottom" : null,
+              "centerAnchorX" : 0.52722772277227725,
+              "centerAnchorY" : 0.14705882352941177,
+              "height" : 113,
+              "left" : -153,
+              "right" : null,
+              "top" : -523,
+              "width" : 571
+            },
+            "@framer\/mcdoodles.micks-demo-uqrj8f5ln-wpSjz05E4" : {
+
+            }
+          }
+        },
+        "right" : null,
+        "rotation" : 0,
+        "top" : -523,
+        "visible" : true,
+        "width" : 571,
+        "widthType" : 0
       }
     ],
     "guidesX" : [

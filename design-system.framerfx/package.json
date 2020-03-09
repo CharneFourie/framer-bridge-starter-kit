@@ -11,11 +11,13 @@
 	},
 	"version": "1.2.0",
 	"dependencies": {
+		"@framer/mcdoodles.micks-demo": "^1.0.0",
 		"styled-components": "^4.2.0"
 	},
 	"name": "@framer/charnefourie.charnes-demo",
 	"author": "Charne Fourie",
 	"framer": {
-		"displayName": "Charne's Demo"
+		"displayName": "Charne's Demo",
+		"id": "307fdef4-48e0-4c3d-8051-70f379c79b67"
 	}
 }
