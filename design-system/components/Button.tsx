@@ -25,14 +25,14 @@ export const Button: React.FC<Props> = ({
   children,
   kind
 }) => (
-  <StyledButton
-    className={`${fluid ? "fluid" : ""} ${disabled ? "disabled" : ""} ${
-      kind ? kind : ""
-    }`}
-  >
-    {text || children}
-  </StyledButton>
-)
+    <StyledButton
+      className={`${fluid ? "fluid" : ""} ${disabled ? "disabled" : ""} ${
+        kind ? kind : ""
+        }`}
+    >
+      {text || children}
+    </StyledButton>
+  )
 
 // Styles
 const StyledButton = styled.button`
@@ -72,7 +72,7 @@ const StyledButton = styled.button`
 
   /* Primary styles */
   &.primary {
-    background: ${theme.color.primary};
+    background: ${theme.color.secondaryGreen};
     color: #fff;
   }
   &.primary:hover {
